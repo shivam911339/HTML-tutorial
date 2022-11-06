@@ -1,0 +1,13 @@
+p{
+    background-image: url("/assets/IMG_20221030_173111.jpg");
+    background-attachment:fixed,scroll ;
+    background-repeat: repeat,repeat-y;
+    
+}
+.div1{
+    border-color:brown;
+    border-width:red;
+    border-style:double;
+    margin:100px 120px 200px;
+    padding: 10px;
+}
